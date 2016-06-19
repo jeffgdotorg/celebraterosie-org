@@ -65,7 +65,7 @@ a:hover {
 
 .navbar-trans li>a:focus,.navbar-trans li.active {
 	background-color:#3b3b3b;
-	color:#333;
+	color:#eee;
 }
 
 .navbar-trans li>a:hover {
