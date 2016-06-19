@@ -196,7 +196,12 @@ footer .nav>li>a:hover {
 	color:#fff;
 }
 
+@font-face {
+    font-family:calligraphyPen;
+    src: url(../fonts/Calligraphy_Pen.ttf);
+}
+
 .poetry {
-    font-family: serif;
+    font-family: calligraphyPen;
     font-size: x-large;
 }
