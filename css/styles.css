@@ -210,3 +210,7 @@ footer .nav>li>a:hover {
     font-family: sans-serif;
     font-size: large;
 }
+
+.desaturate {
+    filter: grayscale();
+}
