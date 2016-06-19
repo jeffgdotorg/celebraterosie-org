@@ -205,3 +205,9 @@ footer .nav>li>a:hover {
     font-family: calligraphyPen;
     font-size: x-large;
 }
+
+.attribution {
+    font-family: sans-serif;
+    font-size: large;
+    text-align: right;
+}
