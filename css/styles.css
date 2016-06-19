@@ -214,3 +214,7 @@ footer .nav>li>a:hover {
 .desaturate {
     filter: grayscale();
 }
+
+.panel-body {
+    color: black;
+}
