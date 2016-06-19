@@ -64,12 +64,12 @@ a:hover {
 }
 
 .navbar-trans li>a:focus,.navbar-trans li.active {
-	background-color:#666666;
+	background-color:#3b3b3b;
 	color:#333;
 }
 
 .navbar-trans li>a:hover {
-	background-color:#555555;
+	background-color:#4b4b4b;
 	color:#fff;
 	opacity:0.5;
 }
