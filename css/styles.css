@@ -2,9 +2,12 @@
 @import url(http://fonts.googleapis.com/css?family=Bitter:400);
 
 html,body {
-	height:100%;
-    background:center no-repeat fixed url('../images/rosie_ralph_couch_bw.jpg');
+    height:100%;
+    background: url('../images/rosie_ralph_couch_bw.jpg');
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color:#444;
     font-family: 'Lato', sans-serif;
 }
