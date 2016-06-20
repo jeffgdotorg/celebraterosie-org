@@ -5,7 +5,7 @@ html,body {
     height:100%;
     background: url('../images/rosie_ralph_couch_bw.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     color:#444;
