@@ -226,3 +226,7 @@ footer .nav>li>a:hover {
 .panel-body {
     color: black;
 }
+
+section div>.text-center>a:hover {
+    color: #fff;
+}
